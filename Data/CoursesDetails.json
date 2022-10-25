@@ -1,114 +1,82 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404f46315261f11c2ab6a",
         "others_info": {
           "is_todays_pick": false,
           "is_trending": true
         },
-        "category_id": "01",
+        "course_id": "01",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_view": 488,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-        "author": {
-          "name": "Jimmy Dane",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "title": "HTML Courses",
+       "image_url": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg",
+        "details": "HTML Certification Course for Beginners A Comprehensive Guide for Beginners interested in learning HTML, CSS, & JavaScript to Build Interactive Web Pages. Become a modern and confident HTML and CSS developer, no prior knowledge needed! Design and build a stunning real-world project for your portfolio from scratch Modern, semantic and accessible HTML5 Modern CSS (previous CSS3), including flexbox and CSS Grid for layout"
       },
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    {
+        "_id": "0282e0e58a5c404f35h15261f11c2ab6a",
         "others_info": {
           "is_todays_pick": false,
           "is_trending": true
         },
-        "category_id": "02",
-        
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-        "author": {
-          "name": "Jimmy Dane",
-          "published_date": "2022-08-24 17:27:34",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "course_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "JavaScrip Courses",
+       "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/JavaScript-BCG-Banner-icons.png",
+        "details": "JavaScript Basics for Beginners: Understand the fundamental concepts in JavaScript Learn problem-solving skills  Learn and apply the best practices Avoid common pitfalls and mistakes other JavaScript developers make JavaScript is a curly-braced, dynamically typed, prototype-based, object-oriented programming language. It started as the programming language"
       },
-  
-      {
-        "_id": "f69a695f037cd9484cecaea37ca71011",
+    {
+        "_id": "0282e0e58a356404fbd15261f11c2ab6a",
         "others_info": {
           "is_todays_pick": false,
           "is_trending": true
         },
-        "category_id": "03",
-       
-        "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-        "author": {
-          "name": "Jennifer Wood",
-          "published_date": "2022-08-30 16:38:45",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+        "course_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "React Courses",
+       "image_url": "https://nareshit.com/wp-content/uploads/2019/01/ReactJS-online-training-nareshit.jpg",
+        "details": "Best React Courses to Take in 2022 How to use React to make awesome front-end UIs! How to set up, navigate, and use create-react-app to build React applications How to use React without webpack or ES6 The React component lifecycle system"
       },
-      {
-        "_id": "f69a695f037cd9484cecaea37ca71012",
+    {
+        "_id": "0282e0e58a5678304fbd15261f11c2ab6a",
         "others_info": {
           "is_todays_pick": false,
           "is_trending": true
         },
-        "category_id": "04",
-       
-        "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-        "author": {
-          "name": "Jennifer Wood",
-          "published_date": "2022-08-30 16:38:45",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+        "course_id": "04",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Python Courses",
+       "image_url": "https://prod-discovery.edx-cdn.org/media/course/image/b5f62d16-ac55-4b5f-ab39-d19dc635d158-ad1d78dfab3a.small.jpeg",
+        "details": "10 Best Python Courses to Take in 2022: Programming for Everybody (University of Michigan) Computing in Python (Georgia Institute of Technology) An Introduction to Interactive Programming in Python (Rice University) Scientific Computing with Python (freeCodeCamp) Crash Course on Python (Google)"
       },
-  
-      {
-        "_id": "11468ed61aee84de492a8b04158a22f9",
+    {
+        "_id": "0282e0e58a5c40424d15261f11c2ab6a",
         "others_info": {
           "is_todays_pick": false,
-          "is_trending": false
+          "is_trending": true
         },
-        "category_id": "05",
-        
-        "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
-        "author": {
-          "name": "system",
-          "published_date": "2022-08-24 23:15:00",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+        "course_id": "05",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Css Courses",
+       "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203171024/CSSTutorial.png",
+        "details": "Top courses in CSS and HTML: Modern HTML & CSS From The Beginning (Including Sass) HTML&CSS Tutorial and Projects Course 2022 (Flexbox&Grid)10 Mega Responsive Websites with HTML, CSS, and JavaScript.Kids Coding - Introduction to HTML, CSS and JavaScript! ...Web Development | HTML | CSS | JavaScript | jQuery | NodeJS"
       },
-      {
-        "_id": "11468ed61aee84de492a8b04158a22f0",
+    {
+        "_id": "0282e0e58a5c404fbd134261f11c2ab6a",
         "others_info": {
           "is_todays_pick": false,
-          "is_trending": false
+          "is_trending": true
         },
-        "category_id": "06",
-        
-        "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
-        "author": {
-          "name": "system",
-          "published_date": "2022-08-24 23:15:00",
-          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+        "course_id": "06",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Express Js Courses",
+       "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png",
+        "details": "Express. js Online Training Courses :3h 18m. Learning Full-Stack JavaScript Development: MongoDB, Node, and React (2016) Course. 118,469 viewers.3h 10m. Building a Website with Node.js and Express.js. Course. 35,067 viewers.1h 25m. Building RESTful APIs with Node.js and Express. Course.2h 30m. Advanced Express. Course"
       }
+     
   
 ]
